@@ -34,13 +34,13 @@ CET6, 2 years+ working experience in Calix(foreign company)
  
 # Projects
 
-[koa-neo4j]https://github.com/yrong/koa-neo4j
+[koa-neo4j](https://github.com/yrong/koa-neo4j)
 
 Language: nodejs
 
 Description:Rapidly create REST APIs, powered by Koa and Neo4j -- batteries included with built-in role based authentication via JWT and reusable backend components
 
-[schema-neo4j]https://github.com/yrong/schema-neo4j
+[schema-neo4j](https://github.com/yrong/schema-neo4j)
 
 Language: nodejs
 
